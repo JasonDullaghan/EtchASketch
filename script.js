@@ -7,7 +7,7 @@
         var sizer = prompt("Enter a size between 1 and 64, its the grid size");
         sizer = parseInt(sizer);
         if (sizer < 1 || sizer > 64 || Number.isNaN(sizer)) {
-            prompt("R u retarded?")
+            prompt("R u dum?")
         }
     return sizer;
     }
